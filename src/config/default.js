@@ -17,8 +17,8 @@ const config = {
     sitePath: null
   },
 
-  refresh_token: REFRESH_TOKEN,
-  client_id: '6600e358-9328-4050-af82-0af9cdde796b',
+  // refresh_token: '0.AT4AoSURqNYuwkOeJ1fTTBi6ylBijPt85jZKpwNhhuvieQg-AM8.AgABAAAAAAD--DLA3VO7QrddgJg7WevrAgDs_wQA9P-nKS7ykTG8syKNK_PIjX3D5Qlzqi3po7ZNEOZCV9r82XsdJpY4fyfhxYN521_I4neKRLJy0_SRhtEq6ike7XGMlXLpa46K1MTt54X67fkAQZla7sp4GJd4mfYp4PVXvzGjISPdr_lAb2T0Otx6neZUZAA-28JlbX5u6EAsU_sjwk2BA-mYCeibhtrk4W0WdDF7dA9TJFw_rKkzyiKMFJfZzZJZfKLx0wu4fgboi11U4d1Q62uA6-ho-H4rqa4hmNLHGOY84iTtFzJ0WF46K_l5V0Iwl7LiQRnPmXfsTdHahvhA7pJfGtj3ihcaWk1bnEGUK0Bxh_dhUmY_rvruToNZQk8LzF0LfKTwqyOnSG4qdST8I2oFQtQrkilZTygrsBt6NwgWAFHeKQeZv8Zv4nlIrq5ruGA2exx5xkNTgJrh4XYyaS63riXkP-lzdqANfAk0B3Ck9y7LDHmFtQ16my65jYpjpDAUMAMQGedRPrTzf6j0evuy5hDXba6DRbTrWiz07j3HVtVjzIF4oM4a-BPLLRhQw1j2HsjAwR-3N3u1WqzVjd282HLIPWVdagZk_bso8D-IdXXXFtOpO-CUqV2E-QnQyeDuLXdBEgsi4Rl6bjzvYY0f0EXCzhLabJtGSWWm4bqsKaeGaL4CqUyqzdt7e649XE20FFrZsb6ypiXhHA3Sfcg28zwgMZZq3a7lO4SnauCQznVyy9vKpPcxZPQEV8q2JnogbChGBsQvAPZC05-lo2grz841_eUehuN5F9R3o2iew3kt784BYvfBM9yhJqoARtMUYu6IGrmUQSCnoNKdk0YfwiwFCT4hR4MrrT467wJt7TqM_QzzrqekhTUvtAnTsB4E56yYQPQb-KfzWJSOxdoJHnC8VE5evFaf8UAXK9sUkHLgLZCl22XXe_oW9v-cr4iP8_Pp5S67aQpQo5-st7BL5ZRp',
+  client_id: 'fb8c6250-e67c-4a36-a703-6186ebe27908',
   client_secret: CLIENT_SECRET,
 
   /**
@@ -29,7 +29,7 @@ const config = {
   /**
    * The base path for indexing, all files and subfolders are public by this tool. For example: `/Public`.
    */
-  base: '/Public',
+  base: '/',
 
   /**
    * Feature: Pagination when a folder has multiple(>${top}) files
